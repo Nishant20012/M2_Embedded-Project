@@ -1,11 +1,10 @@
 /**
  * @file SerialCommunicationUART.h
- * @author Hemanth A (hemanth.ec17@bmsce.ac.in)
+ * @author Nishant20012
  * @brief A header file for serial communication based on UART protocol
  * @version 0.1
- * @date 2021-04-29
+ * @date 2022-04-20
  * 
- * @copyright Copyright (c) 2021
  * 
  */
 #ifndef _SERIALCOMMUNICATIONUART_H_
