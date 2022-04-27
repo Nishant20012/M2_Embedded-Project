@@ -1,6 +1,6 @@
 # M2_Embedded-Project
 "M2_ProjectGoal"
-# embedded_systems_project_256889 - Hemanth A
+# embedded_systems_project_
 
 ## Heat Control System 
 
